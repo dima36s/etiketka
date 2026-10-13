@@ -10,6 +10,7 @@
 - «Годен до» считается от даты изготовления и срока годности в месяцах.
 - Энергетическая ценность считается из белков, жиров и углеводов по ТР ТС 022/2011.
 - Штрихкоды: вертикальный EAN-13 по GTIN и нижний GS1-128 из GTIN, массы, дат и номера партии.
+- Шрифт этикетки выбирается из восьми вариантов с кириллицей (в том числе аналоги Arial и Times New Roman), можно загрузить свой файл .ttf/.otf/.woff.
 - Размер шрифта настраивается отдельно для каждого блока этикетки; кнопка «Как можно крупнее» подбирает самый крупный текст, который помещается.
 - Если текст не помещается, шрифт уменьшается автоматически.
 - Печать на принтер этикеток (страница 100 × 72 мм), скачивание PDF и PNG (600 dpi).
@@ -28,4 +29,4 @@
 - [JsBarcode](https://github.com/lindell/JsBarcode) 3.11.6 — MIT
 - [html2canvas](https://github.com/niklasvh/html2canvas) 1.4.1 — MIT
 - [jsPDF](https://github.com/parallax/jsPDF) 2.5.1 — MIT
-- Шрифты [PT Sans Narrow](https://fonts.google.com/specimen/PT+Sans+Narrow) (ParaType) и [Golos Text](https://fonts.google.com/specimen/Golos+Text) — SIL Open Font License 1.1, файлы из пакетов [Fontsource](https://fontsource.org)
+- Шрифты PT Sans Narrow, PT Sans, PT Serif (ParaType), Fira Sans Extra Condensed, Roboto, Roboto Condensed, Arimo, Tinos, Golos Text — SIL Open Font License 1.1, файлы из пакетов [Fontsource](https://fontsource.org)
